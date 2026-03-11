@@ -4,4 +4,3 @@ plotly
 streamlit
 scipy
 altair<5
-imghdr
